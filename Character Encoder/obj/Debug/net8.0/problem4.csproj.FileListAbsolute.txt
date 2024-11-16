@@ -1,0 +1,14 @@
+C:\Users\MikeyMSM\problem4\bin\Debug\net8.0\problem4.exe
+C:\Users\MikeyMSM\problem4\bin\Debug\net8.0\problem4.deps.json
+C:\Users\MikeyMSM\problem4\bin\Debug\net8.0\problem4.runtimeconfig.json
+C:\Users\MikeyMSM\problem4\bin\Debug\net8.0\problem4.dll
+C:\Users\MikeyMSM\problem4\bin\Debug\net8.0\problem4.pdb
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.AssemblyInfoInputs.cache
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.AssemblyInfo.cs
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.csproj.CoreCompileInputs.cache
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.dll
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\refint\problem4.dll
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.pdb
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\problem4.genruntimeconfig.cache
+C:\Users\MikeyMSM\problem4\obj\Debug\net8.0\ref\problem4.dll
